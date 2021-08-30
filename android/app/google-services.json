@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108142785402",
+    "project_id": "icar-e958f",
+    "storage_bucket": "icar-e958f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108142785402:android:29b8b2a6d973dddebe9cc3",
+        "android_client_info": {
+          "package_name": "com.GHOST.i_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108142785402-kgvu18ret9q9q0njrei6583r865uam22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rutfFl1X3kmez7vT7WZh5DuP5n4li3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108142785402-kgvu18ret9q9q0njrei6583r865uam22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
